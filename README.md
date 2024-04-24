@@ -1,3 +1,14 @@
+
+# Instructions 
+Original instructions is not clear / hard to follow and doesn't seem to work on my setup. 
+Updated the readme to use correct flask and spacy packages. Verified for Py3.9 
+
+```cmd 
+./setup -d small
+./run_dev.sh
+```
+
+
 # 🛒 WebShop
 
 [![Python version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/release/python-3813/)

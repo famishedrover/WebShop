@@ -23,6 +23,7 @@ fi
 
 # Install Python Dependencies
 pip install -r requirements.txt;
+pip install spacy==3.2.6;
 
 # Install Environment Dependencies via `conda`
 conda install -c pytorch faiss-cpu;
